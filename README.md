@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oli (Daniel Oliveira)</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, TypeScript, React, and Angular, and back-end technologies like Node.js, and C#. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **MERN stack and related technologies**
 
