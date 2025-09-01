@@ -24,7 +24,7 @@
 ---
 
 ### 📂 Portfolio Highlights
- 🔹 [Laboratoire System](https://github.com/theDevOli/lab) – Full-stack CRUD  Web app  
+ 🔹 [Laboratoire System](https://github.com/theDevOli/laboratoire) – Full-stack CRUD  Web app  
 
 ---
 
